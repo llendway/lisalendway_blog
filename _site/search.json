@@ -2,20 +2,20 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
+      "title": "My Information",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2020-12-07T14:02:40-06:00"
+      "contents": "\n\nContact Information:\n\n\n\n",
+      "last_modified": "2020-12-07T14:13:34-06:00"
     },
     {
       "path": "index.html",
       "title": "Lisa's Blog",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2020-12-07T14:02:41-06:00"
+      "contents": "\nWho I am:\nWhy am I doing this?:\n\n\n\n",
+      "last_modified": "2020-12-07T14:13:36-06:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
