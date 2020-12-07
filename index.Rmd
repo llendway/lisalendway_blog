@@ -5,11 +5,7 @@ description: |
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+Who I am:
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-```
+Why am I doing this?:
 

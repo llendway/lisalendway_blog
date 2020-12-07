@@ -1,10 +1,11 @@
 ---
-title: "About this site"
+title: "My Information"
 description: |
   Some additional details about the website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
+![]()
+
+Contact Information:
 
